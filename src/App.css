@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  padding: 0;
+  font-family: Times New Roman;
+}
+.heading{
+  font-family: Optima;
+  letter-spacing: 3px;
+  font-size: 35px;
+}
+.navbar{
+  font-family: Optima;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
